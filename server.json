@@ -1,0 +1,60 @@
+{
+  "lives": [
+    {
+      "id": 289,
+      "name": "Full React Course 2020",
+      "channel": "freeCodeCamp",
+      "url": "https://www.youtube.com/embed/4UZrsTqkcW4",
+      "date": "2020-10-06T20:00:00-03:00",
+      "disponible": false
+    },
+    {
+      "id": 618,
+      "name": "Interfaces Expressivas com Flutter",
+      "channel": "Rocketseat",
+      "url": "https://www.youtube.com/embed/jmpKx5IF7j0",
+      "date": "2020-10-27T19:00:00-03:00",
+      "disponible": false
+    },
+    {
+      "id": 967,
+      "name": "Salários, Mercado de Trabalho e o Futuro da Programação",
+      "channel": "Felipe Dechamps",
+      "url": "https://www.youtube.com/embed/uIOkpQa8PGU",
+      "date": "2020-10-19T19:00:00-03:00",
+      "disponible": false
+    },
+    {
+      "id": 183,
+      "name": "Angular: Organização dos Módulos, VSCode e boas práticas",
+      "channel": "GDG Salvador",
+      "url": "https://www.youtube.com/embed/u2JS49mtNQ4",
+      "date": "2020-10-25T14:00:00-03:00",
+      "disponible": false
+    },
+    {
+      "id": 322,
+      "name": "PERN Stack Course - Build a Yelp clone",
+      "channel": "FreeCodeCamp",
+      "url": "https://www.youtube.com/embed/J01rYl9T3BU",
+      "date": "2020-10-30T19:00:00-03:00",
+      "disponible": true
+    },
+    {
+      "id": 57,
+      "name": "Por que eu deveria te pagar mais de 10 mil reais como desenvolvedor?",
+      "channel": "DevPleno",
+      "url": "https://www.youtube.com/embed/9fJkyo6scXM",
+      "date": "2020-10-20T18:00:00-03:00",
+      "disponible": true
+    },
+    {
+      "id": 542,
+      "name": "Como virar líder de desenvolvimento?",
+      "channel": "Rocketseat",
+      "url": "https://www.youtube.com/embed/wNgjZXBPy8E",
+      "date": "2020-10-23T19:00:00-03:00",
+      "disponible": true
+    }
+  ]
+}
